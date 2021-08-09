@@ -9,14 +9,14 @@ so this are the commands used to change the old driver and set the new version d
 
 1.sudo apt update<br>
 2.sudo apt install bc<br>
-3.sudo rmmod r8188eu.ko
-4. git clone https://github.com/aircrack-ng/rtl8188eus
-5.cd rtl8188eus
-6.sudo -i
-7.echo "blacklist r8188eu" > "/etc/modprobe.d/realtek.conf"
-8.exit
-9.make
-10.sudo make install
-11.sudo modprobe 8188e
+3.sudo rmmod r8188eu.ko<br>
+4. git clone https://github.com/aircrack-ng/rtl8188eus<br>
+5.cd rtl8188eus<br>
+6.sudo -i<br>
+7.echo "blacklist r8188eu" > "/etc/modprobe.d/realtek.conf"<br>
+8.exit<br>
+9.make<br>
+10.sudo make install<br>
+11.sudo modprobe 8188e<br>
 
 This are the commands that allow your your tp-link wirlsess adapter to monitor mode, packet injection 
