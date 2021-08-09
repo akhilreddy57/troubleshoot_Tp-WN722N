@@ -7,8 +7,8 @@ so this are the commands used to change the old driver and set the new version d
 --> this commands are used for the installation of the new drivers that support kali linux , and other linux operating systems 
 --> make sure to type command one after other to decrease your problems at middle of the installation
 
-1.sudo apt update
-2.sudo apt install bc
+1.sudo apt update<br>
+2.sudo apt install bc<br>
 3.sudo rmmod r8188eu.ko
 4. git clone https://github.com/aircrack-ng/rtl8188eus
 5.cd rtl8188eus
