@@ -19,4 +19,4 @@ so this are the commands used to change the old driver and set the new version d
 10.sudo make install
 11.sudo modprobe 8188e
 
-This are the commands that allow your your tp-link wirlsess adapter to monitor mode, packet injection
+This are the commands that allow your your tp-link wirlsess adapter to monitor mode, packet injection 
