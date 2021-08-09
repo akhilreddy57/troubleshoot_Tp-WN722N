@@ -1,4 +1,4 @@
-# troubleshoot_Tp-WN722N
+# Tp-Link_Tp-WN722N adapter to monitor
 trouble shoot the new version of the tp-link wn722n model to enable the monitor_mode and packet_injection
 older version of the tp-link wireless adapters are adaptable for kali_linux and parrot_os
 the new version of the wirlesss adapter comes with realteck chipset which does not work with kali_linux and parrot_os 
